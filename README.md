@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="./AB3662F8-B950-4CB1-A2DF-890332FA063B.gif" />
+</p>
 
 <!--
 **TomSyk1/TomSyk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
